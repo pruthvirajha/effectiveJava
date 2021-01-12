@@ -1,0 +1,16 @@
+input:
+  floors: 2
+  mainCorridors: 1
+  subCorridors: 2
+
+motions:
+  -
+    type: movement
+    floor: 1
+    subCorridor: 2
+  -
+    type: noMovement
+    floor: 1
+    subCorridor: 2
+
+
